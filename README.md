@@ -1,105 +1,77 @@
 <div align="center">
 
-# Ganesh Nair
+![Ganesh Nair — animated synthwave header](./assets/header.svg)
 
-**AI Engineer in Training · Building systems around intelligence.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=E63946&center=true&vCenter=true&width=760&height=48&lines=BUILDING+SYSTEMS+AROUND+INTELLIGENCE.;RAG+%2F+COMPUTER+VISION+%2F+AI+AGENTS;FROM+MODELS+TO+REAL+APPLICATIONS." alt="Animated typing: Building systems around intelligence. RAG, computer vision, AI agents." width="95%" />
 
-[LinkedIn](https://www.linkedin.com/in/ganesh-nair-8ab1a5378/) · [Projects](https://github.com/GaneshNair007?tab=repositories)
+<a href="https://www.linkedin.com/in/ganesh-nair-8ab1a5378/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-E63946?style=for-the-badge&labelColor=0D1017" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/GaneshNair007?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-MY_REPOSITORIES-F4F4F5?style=for-the-badge&labelColor=0D1017" alt="Explore my repositories" /></a>
+
+<br/><br/>
+
+**AI Engineer in Training · B.Tech AI & ML, SIT Pune · India**
+
+I build the software around intelligence: **retrieval pipelines, computer vision,**<br/>
+**incident-response tools, and the interfaces that make them usable.**
 
 </div>
 
-```text
-   ____    _    _   _ _____ ____  _   _
-  / ___|  / \  | \ | | ____/ ___|| | | |
- | |  _  / _ \ |  \| |  _| \___ \| |_| |
- | |_| |/ ___ \| |\  | |___ ___) |  _  |
-  \____/_/   \_\_| \_|_____|____/|_| |_|
+### 01 — SELECTED BUILDS
 
- ganesh@dev ~ $ whoami
- AI / ML undergraduate    Symbiosis Institute of Technology
- Based in                 Pune, India
- Building with            RAG · Computer Vision · AI Agents
- Direction                AI engineering → AI systems architecture
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/GaneshNair007/CORTEX-CLOUD-AUTOPILOT-"><img src="./assets/cortex.svg" width="100%" alt="CORTEX — AI-assisted incident investigation and controlled recovery in a local service sandbox" /></a></td>
+<td width="50%"><a href="https://github.com/GaneshNair007/nayan-"><img src="./assets/nayan.svg" width="100%" alt="NAYAN — vehicle detection, tracking, and human-authorized emergency-corridor prototype" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/GaneshNair007/Onion-grading-deeplearning-SIH-"><img src="./assets/vostok.svg" width="100%" alt="VOSTOK — onion detection, visible-defect classification, and policy-based quality grading" /></a></td>
+<td width="50%"><a href="https://github.com/GaneshNair007/PCCOE-HACKATHON"><img src="./assets/carbonerra.svg" width="100%" alt="Carbonerra — web transfer optimization with functional verification" /></a></td>
+</tr>
+</table>
+
+<details>
+<summary><b>Behind the builds — architecture & scope</b></summary>
+
+- **[CORTEX](https://github.com/GaneshNair007/CORTEX-CLOUD-AUTOPILOT-):** semantic + lexical incident retrieval, AI proposals, deterministic policies, approval controls, and post-action verification. Current execution scope is a local service sandbox.
+- **[NAYAN](https://github.com/GaneshNair007/nayan-):** YOLOv8 detection, ByteTrack tracking, road-space analysis, and an operator console. Emergency-corridor actions require human authorization.
+- **[VOSTOK](https://github.com/GaneshNair007/Onion-grading-deeplearning-SIH-):** Faster R-CNN detection, MobileNetV3 attributes, calibrated measurements, and versioned grading rules. Acoustic screening is a synthetic-data research demo.
+- **[Carbonerra](https://github.com/GaneshNair007/PCCOE-HACKATHON):** measures transfer waste and verifies that optimizations preserve user tasks, with release budgets to catch regressions.
+
+</details>
+
+### 02 — MY TOOLKIT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,react,ts,nextjs,tailwind,git,sqlite&theme=dark&perline=10" alt="Python, PyTorch, scikit-learn, FastAPI, React, TypeScript, Next.js, Tailwind CSS, Git, SQLite" />
+
+**RAG · ChromaDB · Sentence Embeddings · Pandas · NumPy · Streamlit**
+
+</div>
+
+### 03 — INSIDE MY WORKSPACE
+
+```python
+class GaneshNair:
+    focus = ["AI agents", "computer vision", "retrieval systems"]
+    learning = ["model evaluation", "AI system design"]
+    approach = "Build it. Measure it. Understand the trade-offs."
+    next = "AI engineering -> AI systems architecture"
 ```
 
-I build AI applications that connect models to usable software: retrieval pipelines, incident-response tools, computer vision systems, and the interfaces around them. I’m pursuing a B.Tech in Artificial Intelligence & Machine Learning at **SIT Pune**.
+### 04 — THE COMMIT TRAIL
 
-My focus is on understanding the full path from data and inference to APIs, evaluation, and user experience.
+<div align="center">
 
-## Selected work
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=GaneshNair007&show_icons=true&hide_rank=true&hide_border=true&title_color=E63946&icon_color=E63946&text_color=C7C9CF&bg_color=0D1017&disable_animations=true" alt="Ganesh Nair's public GitHub statistics" />
+<img width="43%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GaneshNair007&layout=compact&langs_count=6&hide_border=true&title_color=E63946&text_color=C7C9CF&bg_color=0D1017&disable_animations=true" alt="Languages across Ganesh Nair's public repositories" />
 
-### 01 / CORTEX Cloud Autopilot
-**AI-assisted incident investigation and controlled recovery.**
+<sub>Live cards may be cached. Repository language usage does not measure proficiency.</sub>
 
-Retrieves operational evidence, proposes a response, checks policy, and verifies the outcome in a local service sandbox. Combines semantic and lexical retrieval with approval controls and audit trails.
+<br/><br/>
 
-`Python` `FastAPI` `ChromaDB` `React` `TypeScript`
+<a href="https://www.linkedin.com/in/ganesh-nair-8ab1a5378/"><img src="./assets/footer.svg" width="100%" alt="Let's build something that matters — AI/ML internships, research, and open source. Connect on LinkedIn." /></a>
 
-[Explore CORTEX →](https://github.com/GaneshNair007/CORTEX-CLOUD-AUTOPILOT-)
+<sub>Header adapted from <a href="https://github.com/ryanpolasky/ryme.md">RyMe.md · Neon Synthwave</a> · <a href="./THIRD_PARTY_NOTICES.md">MIT notice</a> · Typing by <a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1</a> · Stats by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a></sub>
 
-### 02 / NAYAN
-**Computer vision for traffic awareness and emergency corridors.**
-
-A prototype connecting vehicle detection and tracking with road-space analysis, an operator console, and human-authorized emergency-corridor decisions.
-
-`YOLOv8` `PyTorch` `ByteTrack` `FastAPI` `React`
-
-[Explore NAYAN →](https://github.com/GaneshNair007/nayan-)
-
-### 03 / VOSTOK
-**AI-assisted onion inspection and quality grading.**
-
-Combines onion detection, visible-defect classification, calibrated size measurement, and a versioned grading policy. Produces batch summaries and evidence-backed reports; acoustic screening remains a synthetic-data research demo.
-
-`PyTorch` `Faster R-CNN` `MobileNetV3` `Python`
-
-[Explore VOSTOK →](https://github.com/GaneshNair007/Onion-grading-deeplearning-SIH-)
-
-### 04 / Carbonerra Savings Lab
-**Web sustainability with functional verification.**
-
-Measures transfer waste, identifies reducible assets, and checks that a lighter website still completes the same user tasks. Adds release budgets to help prevent regressions.
-
-`Next.js` `TypeScript` `React` `Tailwind CSS`
-
-[Explore Carbonerra →](https://github.com/GaneshNair007/PCCOE-HACKATHON)
-
-## Tools I work with
-
-![Python](https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-181717?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-181717?style=flat-square&logo=scikitlearn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-181717?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-181717?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=nextdotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white)
-
-**AI & data:** RAG, sentence embeddings, ChromaDB, Pandas, NumPy, model evaluation.  
-**Applications:** REST APIs, SQLite, Streamlit, Tailwind CSS, GSAP.
-
-## Currently exploring
-
-- Retrieval quality and context-aware AI agents.
-- Computer vision evaluation and dependable model-to-application integration.
-- System design for AI applications with clear evidence and human oversight.
-
-## GitHub activity
-
-<a href="https://github.com/GaneshNair007?tab=overview">
-  <img width="490" alt="Ganesh Nair's public GitHub activity statistics" src="https://github-stats-extended.vercel.app/api?username=GaneshNair007&show_icons=true&hide_rank=true&hide_border=true&title_color=888888&icon_color=888888&text_color=888888&bg_color=ffffff&disable_animations=true" />
-</a>
-
-<a href="https://github.com/GaneshNair007?tab=repositories">
-  <img width="360" alt="Languages used across Ganesh Nair's public repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GaneshNair007&layout=compact&langs_count=6&hide_border=true&title_color=888888&text_color=888888&bg_color=ffffff&disable_animations=true" />
-</a>
-
-<sub>Cards are provided by GitHub Stats Extended and may be cached or temporarily unavailable. Repository language usage is not a measure of proficiency.</sub>
-
----
-
-**Let’s build something useful.** I’m interested in AI/ML internships, research collaborations, and thoughtful open-source projects.
-
-[Connect on LinkedIn →](https://www.linkedin.com/in/ganesh-nair-8ab1a5378/)
-
-<sub>Terminal-style inspiration: <a href="https://github.com/Andrew6rant/Andrew6rant">Andrew Grant</a> · Stats: <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a></sub>
+</div>
