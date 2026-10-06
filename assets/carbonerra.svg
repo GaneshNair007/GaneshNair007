@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="222" viewBox="0 0 440 222" role="img" aria-label="CARBONERRA — Savings Lab">
+ <style>@keyframes orbit{to{transform:rotate(360deg)}} @keyframes pulse{50%{opacity:.25}} .orbit{transform-origin:388px 49px;animation:orbit 12s linear infinite} .pulse{animation:pulse 3s ease-in-out infinite} @media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+ <rect width="440" height="222" rx="8" fill="#0d1017"/><rect x=".5" y=".5" width="439" height="221" rx="8" fill="none" stroke="#292d36"/>
+ <path d="M24 25H45" stroke="#e63946" stroke-width="3"/><text x="54" y="29" fill="#a9adb7" font-size="10" font-family="monospace" letter-spacing="2">PROJECT / 04</text>
+ <circle cx="388" cy="49" r="20" fill="none" stroke="#292d36"/><g class="orbit"><circle cx="388" cy="49" r="20" fill="none" stroke="#e63946" stroke-dasharray="24 102" stroke-width="2"/><circle cx="388" cy="29" r="3" fill="#f4f4f5"/></g><circle class="pulse" cx="388" cy="49" r="4" fill="#e63946"/>
+ <text x="24" y="83" fill="#f4f4f5" font-family="Arial,sans-serif" font-size="31" font-weight="800" letter-spacing="-1">CARBONERRA</text>
+ <text x="24" y="108" fill="#e63946" font-family="Arial,sans-serif" font-size="15">Savings Lab</text>
+ <text x="24" y="139" fill="#b5bac5" font-family="Arial,sans-serif" font-size="12">Lighter websites. Verified user journeys.</text>
+ <path d="M24 161H416" stroke="#292d36"/><text x="24" y="191" fill="#a9adb7" font-family="monospace" font-size="10">NEXT.JS  /  TYPESCRIPT  /  REACT</text><text x="400" y="193" fill="#f4f4f5" font-size="21">↗</text>
+ </svg>
