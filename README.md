@@ -87,11 +87,11 @@ Measures transfer waste, identifies reducible assets, and checks that a lighter 
 ## GitHub activity
 
 <a href="https://github.com/GaneshNair007?tab=overview">
-  <img width="490" alt="Ganesh Nair's public GitHub activity statistics" src="https://github-stats-extended.vercel.app/api?username=GaneshNair007&show_icons=true&hide_rank=true&hide_border=true&title_color=888888&icon_color=888888&text_color=888888&bg_color=00000000" />
+  <img width="490" alt="Ganesh Nair's public GitHub activity statistics" src="https://github-stats-extended.vercel.app/api?username=GaneshNair007&show_icons=true&hide_rank=true&hide_border=true&title_color=888888&icon_color=888888&text_color=888888&bg_color=ffffff&disable_animations=true" />
 </a>
 
 <a href="https://github.com/GaneshNair007?tab=repositories">
-  <img width="360" alt="Languages used across Ganesh Nair's public repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GaneshNair007&layout=compact&langs_count=6&hide_border=true&title_color=888888&text_color=888888&bg_color=00000000" />
+  <img width="360" alt="Languages used across Ganesh Nair's public repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GaneshNair007&layout=compact&langs_count=6&hide_border=true&title_color=888888&text_color=888888&bg_color=ffffff&disable_animations=true" />
 </a>
 
 <sub>Cards are provided by GitHub Stats Extended and may be cached or temporarily unavailable. Repository language usage is not a measure of proficiency.</sub>
