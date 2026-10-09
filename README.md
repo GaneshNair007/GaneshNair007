@@ -1,6 +1,6 @@
 <div align="center">
 
-![Ganesh Nair — animated synthwave header](./assets/header.svg)
+![Ganesh Nair — animated ASCII portrait with scan and assembly effects](./assets/portrait.svg)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=E63946&center=true&vCenter=true&width=760&height=48&lines=BUILDING+SYSTEMS+AROUND+INTELLIGENCE.;RAG+%2F+COMPUTER+VISION+%2F+AI+AGENTS;FROM+MODELS+TO+REAL+APPLICATIONS." alt="Animated typing: Building systems around intelligence. RAG, computer vision, AI agents." width="95%" />
 
@@ -63,6 +63,12 @@ class GaneshNair:
 
 <div align="center">
 
+![Animated snake traversing my GitHub contribution graph](./assets/contribution-snake.svg)
+
+<sub>Generated daily from my GitHub contribution history.</sub>
+
+<br/><br/>
+
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=GaneshNair007&show_icons=true&hide_rank=true&hide_border=true&title_color=E63946&icon_color=E63946&text_color=C7C9CF&bg_color=0D1017&disable_animations=true" alt="Ganesh Nair's public GitHub statistics" />
 <img width="43%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GaneshNair007&layout=compact&langs_count=6&hide_border=true&title_color=E63946&text_color=C7C9CF&bg_color=0D1017&disable_animations=true" alt="Languages across Ganesh Nair's public repositories" />
 
@@ -72,6 +78,6 @@ class GaneshNair:
 
 <a href="https://www.linkedin.com/in/ganesh-nair-8ab1a5378/"><img src="./assets/footer.svg" width="100%" alt="Let's build something that matters — AI/ML internships, research, and open source. Connect on LinkedIn." /></a>
 
-<sub>Header adapted from <a href="https://github.com/ryanpolasky/ryme.md">RyMe.md · Neon Synthwave</a> · <a href="./THIRD_PARTY_NOTICES.md">MIT notice</a> · Typing by <a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1</a> · Stats by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a></sub>
+<sub>Original synthwave design adapted from <a href="https://github.com/ryanpolasky/ryme.md">RyMe.md · Neon Synthwave</a> · <a href="./THIRD_PARTY_NOTICES.md">MIT notice</a> · Typing by <a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1</a> · Contribution animation by <a href="https://github.com/Platane/snk">Platane/snk</a> · Stats by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a></sub>
 
 </div>
