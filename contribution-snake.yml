@@ -1,0 +1,38 @@
+name: Contribution snake
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 2 * * *'
+  push:
+    paths:
+      - '.github/workflows/contribution-snake.yml'
+permissions:
+  contents: write
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: GaneshNair007
+          outputs: |
+            assets/contribution-snake.svg?palette=github-light&color_snake=%23d0021b&color_dots=%23e5e2db,%239be9a8,%2340c463,%2330a14e,%23216e39
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Match editorial background
+        run: |
+          python3 -c 'from pathlib import Path; p=Path("assets/contribution-snake.svg"); p.write_text(p.read_text().replace("</style>", "</style><rect x=\"-16\" y=\"-32\" width=\"880\" height=\"192\" fill=\"#f2f0eb\"/>"))'
+      - name: Commit updated animation
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/contribution-snake.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Refresh contribution snake'
+          git pull --rebase origin main
+          git push origin HEAD:main
