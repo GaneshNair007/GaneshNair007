@@ -34,17 +34,19 @@ My engineering philosophy centers on **software honesty, rigorous testing, and v
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/GaneshNair007/Jarvis">🏛️ Jarvis</a></h3>
-      <p><b>Autonomous Personal AI Operating System & Local-First Agent Engine</b></p>
+      <p><b>Autonomous Personal AI Operating System, 105-Agent Workforce & 10-Layer Security Shield</b></p>
       <ul>
-        <li><b>3-Tier Intelligent Routing:</b> Ultra-low latency deterministic bypass lane (&lt;1ms), local Ollama SLM inference, and cloud deep reasoning via OpenRouter.</li>
-        <li><b>Persistent Memory Graph:</b> Cross-session SQLite memory store with WAL mode, auto-tagging, and atomic state synchronization.</li>
-        <li><b>Auditability & Real-Time UI:</b> Merkle tree execution logs, full test suite with 100+ unit/integration tests, and real-time WebSocket dashboard.</li>
+        <li><b>105-Agent Autonomous Workforce:</b> Parallelized micro-agent fleet across 5 specialized divisions (Recon, Analysis, Scaffolding, DevOps, Dispatch) with task graph DAG scheduling.</li>
+        <li><b>10-Layer Zero-Leak Security Shield:</b> Hardware-accelerated AES-256-GCM vault, Presidio DLP secret redaction, fail-closed cloud router, single-use bound tokens, and append-only Merkle audit ledger.</li>
+        <li><b>Aider-Style AST Codebase Knowledge Graph:</b> Real-time symbol table parsing and structural dependency mapping for zero-hallucination code generation.</li>
+        <li><b>Asymmetric Hybrid Edge Compute:</b> NVIDIA RTX 4050 6GB local acceleration for Kokoro-TTS and Faster-Whisper voice, paired with multi-account Gemini and OpenRouter rotators.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AES--256--GCM-Vault-232F3E?style=flat-square&logo=shield" />
         <img src="https://img.shields.io/badge/FastAPI-Async-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-WAL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pytest-Verified-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+        <img src="https://img.shields.io/badge/105--Agent-Swarm-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Pytest-87_Tests_Passed-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
       </p>
       <a href="https://github.com/GaneshNair007/Jarvis"><b>Explore Jarvis Repository ↗</b></a>
     </td>
