@@ -83,19 +83,20 @@ My engineering philosophy centers on **software honesty, rigorous testing, and v
       <a href="https://github.com/GaneshNair007/AURA"><b>Explore AURA Repository ↗</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/GaneshNair007/AgriKavach-Crop-Disease-AI">🌿 AgriKavach</a></h3>
-      <p><b>Deep Learning Crop Pathology Diagnostic Suite</b></p>
+      <h3><a href="https://github.com/GaneshNair007/PCCOE-HACKATHON">🌍 Carbonerra Savings Lab</a></h3>
+      <p><b>Evidence-Driven Web Sustainability & Regression Guard</b></p>
       <ul>
-        <li><b>Produce Health Classification:</b> Convolutional neural networks trained for early leaf disease detection across agricultural staples.</li>
-        <li><b>Edge Optimization:</b> Lightweight inference pipeline capable of running on low-resource hardware for rural farmers.</li>
-        <li><b>Actionable Remediation:</b> Provides immediate diagnostic breakdowns and organic/chemical intervention protocols.</li>
+        <li><b>Measure & Diagnose:</b> Measures transfer size across browser journeys and maps reducible asset hotspots to source files.</li>
+        <li><b>Task-Preserving Optimization:</b> Rejects smaller builds when functional assertions fail, so performance savings do not come at the cost of broken user workflows.</li>
+        <li><b>Regression Protection:</b> Promotes verified transfer budgets into a shared evaluator used by the app, CLI, and GitHub Actions; repository README documents 28 tests.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Computer%20Vision-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-Image%20Proc-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/AgriTech-AI-10B981?style=flat-square&logo=leaf&logoColor=white" />
+        <img alt="Next.js 14" src="https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img alt="Sustainable Web Design Model" src="https://img.shields.io/badge/Sustainable%20Web-SWD%20Model-16A34A?style=flat-square" />
+        <img alt="28 tests documented" src="https://img.shields.io/badge/Tests-28%20documented-0A9EDC?style=flat-square" />
       </p>
-      <a href="https://github.com/GaneshNair007/AgriKavach-Crop-Disease-AI"><b>Explore AgriKavach Repository ↗</b></a>
+      <a href="https://github.com/GaneshNair007/PCCOE-HACKATHON"><b>Explore Carbonerra Repository ↗</b></a>
     </td>
   </tr>
   <tr>
@@ -113,17 +114,36 @@ My engineering philosophy centers on **software honesty, rigorous testing, and v
       <a href="https://github.com/GaneshNair007/CORTEX-CLOUD-AUTOPILOT-"><b>Explore CORTEX Repository ↗</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/GaneshNair007/nayan-">🚦 NAYAN</a></h3>
-      <p><b>Computer Vision Urban Mobility & Emergency Corridors</b></p>
+      <h3><a href="https://github.com/GaneshNair007/ibm-x-quantum-computing-">⚛️ QuantumRescue</a></h3>
+      <p><b>Hybrid Classical–Quantum Disaster Intelligence & Logistics Platform</b></p>
       <ul>
-        <li>Real-time traffic camera video analysis detecting high-density bottlenecks.</li>
-        <li>Automated green corridor dispatch optimization for emergency vehicles (ambulances/fire).</li>
+        <li><b>Disaster Image Intelligence:</b> ResNet-18 feature extraction with a four-qubit variational quantum classifier using Qiskit Aer simulation.</li>
+        <li><b>Operational Logistics:</b> Google OR-Tools CP-SAT handles vehicle capacity and regional demand constraints; QAOA is kept as an explicitly experimental research track.</li>
+        <li><b>Safety & Integrity:</b> Human approval gates dispatch and stock reservations; the README documents database invariants, quarantined image ingestion, and reproducible verification scripts.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/OpenCV-Video%20Analysis-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/Smart%20City-Mobility-F59E0B?style=flat-square&logo=transmission&logoColor=white" />
+        <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white" />
+        <img alt="Google OR-Tools" src="https://img.shields.io/badge/OR--Tools-4285F4?style=flat-square" />
+        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       </p>
-      <a href="https://github.com/GaneshNair007/nayan-"><b>Explore NAYAN Repository ↗</b></a>
+      <a href="https://github.com/GaneshNair007/ibm-x-quantum-computing-"><b>Explore QuantumRescue Repository ↗</b></a>
+    </td>  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/GaneshNair007/SIH">🧪 H₂S Monitor Platform</a></h3>
+      <p><b>Industrial Hydrogen Sulfide Exposure Tracking</b></p>
+      <ul>
+        <li><b>Exposure History:</b> Tracks cumulative H₂S exposure across shifts and colorimetric wristband lifecycles.</li>
+        <li><b>Scientific Caution:</b> Displays exposure as ranges and includes scan-confidence states instead of presenting false measurement precision.</li>
+        <li><b>Role-Based Workflows:</b> Separate worker and shift-manager dashboards for exposure history, active workers, and wristband registration. The repository identifies its data as simulated demo data.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img alt="React 18" src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <a href="https://github.com/GaneshNair007/SIH"><b>Explore H₂S Monitor Repository ↗</b></a>
     </td>
   </tr>
 </table>
