@@ -91,13 +91,14 @@ My engineering philosophy centers on **software honesty, rigorous testing, and v
         <li><b>Regression Protection:</b> Promotes verified transfer budgets into a shared evaluator used by the app, CLI, and GitHub Actions; repository README documents 28 tests.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Sustainable%20Web-SWD%20Model-16A34A?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tests-28%20documented-0A9EDC?style=flat-square" />
+        <img alt="Next.js 14" src="https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img alt="Sustainable Web Design Model" src="https://img.shields.io/badge/Sustainable%20Web-SWD%20Model-16A34A?style=flat-square" />
+        <img alt="28 tests documented" src="https://img.shields.io/badge/Tests-28%20documented-0A9EDC?style=flat-square" />
       </p>
       <a href="https://github.com/GaneshNair007/PCCOE-HACKATHON"><b>Explore Carbonerra Repository ↗</b></a>
-    </td>  </tr>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/GaneshNair007/CORTEX-CLOUD-AUTOPILOT-">☁️ CORTEX Cloud Autopilot</a></h3>
@@ -121,10 +122,10 @@ My engineering philosophy centers on **software honesty, rigorous testing, and v
         <li><b>Safety & Integrity:</b> Human approval gates dispatch and stock reservations; the README documents database invariants, quarantined image ingestion, and reproducible verification scripts.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white" />
-        <img src="https://img.shields.io/badge/OR--Tools-4285F4?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white" />
+        <img alt="Google OR-Tools" src="https://img.shields.io/badge/OR--Tools-4285F4?style=flat-square" />
+        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       </p>
       <a href="https://github.com/GaneshNair007/ibm-x-quantum-computing-"><b>Explore QuantumRescue Repository ↗</b></a>
     </td>  </tr>
@@ -139,7 +140,7 @@ My engineering philosophy centers on **software honesty, rigorous testing, and v
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img alt="React 18" src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
       <a href="https://github.com/GaneshNair007/SIH"><b>Explore H₂S Monitor Repository ↗</b></a>
