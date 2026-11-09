@@ -83,20 +83,21 @@ My engineering philosophy centers on **software honesty, rigorous testing, and v
       <a href="https://github.com/GaneshNair007/AURA"><b>Explore AURA Repository ↗</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/GaneshNair007/PCCOE-HACKATHON">🌍 Carbonerra Savings Lab</a></h3>
-      <p><b>Evidence-Driven Web Sustainability & Regression Guard</b></p>
+      <h3><a href="https://github.com/GaneshNair007/switch-AI">🧭 Switch AI — Ship Court HQ</a></h3>
+      <p><b>Human-Controlled Multi-Agent Collaboration & Engineering Review Workspace</b></p>
       <ul>
-        <li><b>Measure & Diagnose:</b> Measures transfer size across browser journeys and maps reducible asset hotspots to source files.</li>
-        <li><b>Task-Preserving Optimization:</b> Rejects smaller builds when functional assertions fail, so performance savings do not come at the cost of broken user workflows.</li>
-        <li><b>Regression Protection:</b> Promotes verified transfer budgets into a shared evaluator used by the app, CLI, and GitHub Actions; repository README documents 28 tests.</li>
+        <li><b>Five Specialist Agents:</b> Clerk, Historian, Prosecutor, Defender, and a meeting-only Third Voice collaborate through the official Switch HTTP/SSE protocol.</li>
+        <li><b>Shared Workflows:</b> Discord Mission Control and an authenticated web dashboard connect engineering reviews, idea-studio missions, evidence, decisions, and follow-up tasks.</li>
+        <li><b>Human-Governed Actions:</b> GitHub operations require a separately reviewed exact plan and human approval; agents cannot approve or execute their own releases.</li>
+        <li><b>Verification:</b> Repository README records 137 local Python tests and 10 Node tests; live-provider and external integration checks are reported separately.</li>
       </ul>
       <p>
-        <img alt="Next.js 14" src="https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img alt="Sustainable Web Design Model" src="https://img.shields.io/badge/Sustainable%20Web-SWD%20Model-16A34A?style=flat-square" />
-        <img alt="28 tests documented" src="https://img.shields.io/badge/Tests-28%20documented-0A9EDC?style=flat-square" />
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img alt="Switch agent protocol" src="https://img.shields.io/badge/Switch-Agent%20Protocol-7C3AED?style=flat-square" />
+        <img alt="Groq" src="https://img.shields.io/badge/Groq-111827?style=flat-square" />
+        <img alt="137 Python tests" src="https://img.shields.io/badge/Python%20Tests-137%20documented-0A9EDC?style=flat-square" />
       </p>
-      <a href="https://github.com/GaneshNair007/PCCOE-HACKATHON"><b>Explore Carbonerra Repository ↗</b></a>
+      <a href="https://github.com/GaneshNair007/switch-AI"><b>Explore Switch AI Repository ↗</b></a>
     </td>
   </tr>
   <tr>
@@ -131,19 +132,20 @@ My engineering philosophy centers on **software honesty, rigorous testing, and v
     </td>  </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/GaneshNair007/SIH">🧪 H₂S Monitor Platform</a></h3>
-      <p><b>Industrial Hydrogen Sulfide Exposure Tracking</b></p>
+      <h3><a href="https://github.com/GaneshNair007/PCCOE-HACKATHON">🌍 PCCOE Hackathon — Carbonerra Savings Lab</a></h3>
+      <p><b>Evidence-Driven Web Sustainability & Regression Guard</b></p>
       <ul>
-        <li><b>Exposure History:</b> Tracks cumulative H₂S exposure across shifts and colorimetric wristband lifecycles.</li>
-        <li><b>Scientific Caution:</b> Displays exposure as ranges and includes scan-confidence states instead of presenting false measurement precision.</li>
-        <li><b>Role-Based Workflows:</b> Separate worker and shift-manager dashboards for exposure history, active workers, and wristband registration. The repository identifies its data as simulated demo data.</li>
+        <li><b>Measure & Diagnose:</b> Measures transfer size across browser journeys and maps reducible asset hotspots to source files.</li>
+        <li><b>Task-Preserving Optimization:</b> Rejects smaller builds when functional assertions fail, so performance savings do not come at the cost of broken user workflows.</li>
+        <li><b>Regression Protection:</b> Promotes verified transfer budgets into a shared evaluator used by the app, CLI, and GitHub Actions; repository README documents 28 tests.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img alt="React 18" src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img alt="Next.js 14" src="https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img alt="Sustainable Web Design Model" src="https://img.shields.io/badge/Sustainable%20Web-SWD%20Model-16A34A?style=flat-square" />
+        <img alt="28 tests documented" src="https://img.shields.io/badge/Tests-28%20documented-0A9EDC?style=flat-square" />
       </p>
-      <a href="https://github.com/GaneshNair007/SIH"><b>Explore H₂S Monitor Repository ↗</b></a>
+      <a href="https://github.com/GaneshNair007/PCCOE-HACKATHON"><b>Explore Carbonerra Repository ↗</b></a>
     </td>
   </tr>
 </table>
